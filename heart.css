@@ -1,0 +1,32 @@
+#main{
+    margin-left: 450px;
+}
+#circle1{
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    top: 150px;
+    left: 50px;
+}
+ #circle2{
+    background-color: red;
+    height:150px;
+    width: 150px;
+    border-radius: 50%;
+    position: relative;
+    top: 0px;
+    left: 150px; 
+
+ }
+#square{
+    background-color: red;
+    position: relative;
+    height: 150px;
+    width: 150px;
+    transform: rotate(45deg);
+    left: 100px;
+    top: -100px;
+    
+} 
